@@ -1,4 +1,18 @@
-# Native JS Personal Portfolio
+# SC of my Landing page
+> Forked from Olin Kirkland @ https://github.com/olinkirkland
 
-Personal website of Olin Kirkland. Reworked for React at https://github.com/olinkirkland/olinkirkland.github.io
-Formerly reachable at https://olinkirk.land
+- Contact me at masosven@protonmail.com
+- Bussiness inquries go to mailme@svenmaso.de
+
+### ToDo's 
+> Make CV available
+- ~~German fancy~~
+- German sterile
+- English fancy
+- English sterile
+> Clean up
+- remove stuff unrelated to me
+- clean writedown of explanations
+- remove JS
+- format/add favicon
+> should rewrite in hugo and then archive;replace this repo
